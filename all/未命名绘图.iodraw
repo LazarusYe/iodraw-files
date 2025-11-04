@@ -11,10 +11,10 @@
           <mxGeometry x="180" y="50" width="127" height="52" as="geometry" />
         </mxCell>
         <mxCell id="cXuE-3c_JRa62TgNxXUB-56" value="血管中心线拟合" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="246" y="211" width="173" height="48" as="geometry" />
+          <mxGeometry x="260" y="120" width="173" height="48" as="geometry" />
         </mxCell>
         <mxCell id="cXuE-3c_JRa62TgNxXUB-57" value="安全点筛选（Avoid Bone &amp; Valve）" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="133" y="309" width="234" height="66" as="geometry" />
+          <mxGeometry x="135" y="190" width="234" height="66" as="geometry" />
         </mxCell>
         <mxCell id="cXuE-3c_JRa62TgNxXUB-58" value="AI路径规划（A* / RRT）" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="135" y="425" width="231" height="48" as="geometry" />
