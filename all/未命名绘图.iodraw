@@ -29,7 +29,7 @@
           <mxGeometry x="1149.5" y="436" width="253" height="34" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-33" value="数据监控模块（姿态/力/视觉闭环）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="997.5" y="380" width="254" height="31" as="geometry" />
+          <mxGeometry x="998.5" y="510" width="254" height="31" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-34" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="YCG6qy2EottCXB00TJv6-25" target="YCG6qy2EottCXB00TJv6-28">
           <mxGeometry relative="1" as="geometry" />
