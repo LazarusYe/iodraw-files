@@ -32,7 +32,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-83" value="实时监测与反馈" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2180" y="466" width="172" height="48" as="geometry" />
+          <mxGeometry x="2150" y="465" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-84" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="YCG6qy2EottCXB00TJv6-75" target="YCG6qy2EottCXB00TJv6-78">
           <mxGeometry relative="1" as="geometry">
@@ -69,7 +69,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-92" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=1;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="YCG6qy2EottCXB00TJv6-83" target="YCG6qy2EottCXB00TJv6-78">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2266" y="610" />
+              <mxPoint x="1091" y="610" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
