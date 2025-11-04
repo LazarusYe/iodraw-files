@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="Xd5wWFqbfpD8aCrecjv-">
-    <mxGraphModel dx="1167" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="636" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,10 +40,8 @@
         <mxCell id="cXuE-3c_JRa62TgNxXUB-34" value="置信度与关键点输出（Confidence Map）" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="493" y="771" width="257" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="cXuE-3c_JRa62TgNxXUB-35" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;rounded=0;labelBackgroundColor=none;fontColor=default;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="cXuE-3c_JRa62TgNxXUB-26">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="449" y="240" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="cXuE-3c_JRa62TgNxXUB-35" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.09;rounded=0;labelBackgroundColor=none;fontColor=default;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="cXuE-3c_JRa62TgNxXUB-26" target="cXuE-3c_JRa62TgNxXUB-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cXuE-3c_JRa62TgNxXUB-36" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;labelBackgroundColor=none;fontColor=default;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="cXuE-3c_JRa62TgNxXUB-27" target="cXuE-3c_JRa62TgNxXUB-29">
           <mxGeometry relative="1" as="geometry" />
