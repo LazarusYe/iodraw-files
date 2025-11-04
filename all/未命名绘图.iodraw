@@ -23,10 +23,10 @@
           <mxGeometry x="1500" y="430" width="204" height="48" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-81" value="双臂协同执行（压脉/定位/穿刺）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1776" y="436" width="253" height="66" as="geometry" />
+          <mxGeometry x="1770" y="421" width="253" height="66" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-82" value="采血与样本收集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2079" y="445" width="172" height="48" as="geometry" />
+          <mxGeometry x="2090" y="430" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-83" value="实时监测与反馈" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2301" y="513" width="172" height="48" as="geometry" />
@@ -40,8 +40,8 @@
         <mxCell id="YCG6qy2EottCXB00TJv6-86" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="YCG6qy2EottCXB00TJv6-77" target="YCG6qy2EottCXB00TJv6-78">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="940" y="631" />
-              <mxPoint x="940" y="532" />
+              <mxPoint x="950" y="631" />
+              <mxPoint x="950" y="532" />
             </Array>
           </mxGeometry>
         </mxCell>
