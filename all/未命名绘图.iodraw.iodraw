@@ -14,22 +14,22 @@
           <mxGeometry x="603" y="129" width="201" height="47" as="geometry" />
         </mxCell>
         <mxCell id="cXuE-3c_JRa62TgNxXUB-29" value="图像预处理（降噪、归一化）" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="323" y="249" width="252" height="66" as="geometry" />
+          <mxGeometry x="323" y="226" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="cXuE-3c_JRa62TgNxXUB-30" value="特征提取（血管特征、纹理特征）" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="462" y="365" width="253" height="66" as="geometry" />
+          <mxGeometry x="462" y="342" width="253" height="66" as="geometry" />
         </mxCell>
         <mxCell id="cXuE-3c_JRa62TgNxXUB-31" value="融合模块（加权融合 / Transformer 融合）" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="340" y="481" width="217" height="66" as="geometry" />
+          <mxGeometry x="340" y="458" width="217" height="66" as="geometry" />
         </mxCell>
         <mxCell id="cXuE-3c_JRa62TgNxXUB-32" value="深度学习识别（CNN / UNet 模型）" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="321" y="597" width="256" height="66" as="geometry" />
+          <mxGeometry x="321" y="596" width="256" height="66" as="geometry" />
         </mxCell>
         <mxCell id="cXuE-3c_JRa62TgNxXUB-33" value="血管定位结果（Mask Map）" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="138" y="771" width="256" height="48" as="geometry" />
+          <mxGeometry x="138" y="770" width="256" height="48" as="geometry" />
         </mxCell>
         <mxCell id="cXuE-3c_JRa62TgNxXUB-34" value="置信度与关键点输出（Confidence Map）" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="493" y="771" width="257" height="50" as="geometry" />
+          <mxGeometry x="493" y="770" width="257" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cXuE-3c_JRa62TgNxXUB-35" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=none;fontColor=default;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" edge="1" parent="1" source="cXuE-3c_JRa62TgNxXUB-26" target="cXuE-3c_JRa62TgNxXUB-29">
           <mxGeometry relative="1" as="geometry">
@@ -48,8 +48,8 @@
         <mxCell id="cXuE-3c_JRa62TgNxXUB-39" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;fontColor=default;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#000000;" edge="1" parent="1" source="cXuE-3c_JRa62TgNxXUB-29" target="cXuE-3c_JRa62TgNxXUB-31">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="290" y="282" />
-              <mxPoint x="290" y="514" />
+              <mxPoint x="290" y="259" />
+              <mxPoint x="290" y="491" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -62,18 +62,18 @@
         <mxCell id="cXuE-3c_JRa62TgNxXUB-42" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;labelBackgroundColor=none;fontColor=default;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="cXuE-3c_JRa62TgNxXUB-32" target="cXuE-3c_JRa62TgNxXUB-33">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="449" y="710" />
-              <mxPoint x="266" y="710" />
+              <mxPoint x="449" y="709" />
+              <mxPoint x="266" y="709" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="cXuE-3c_JRa62TgNxXUB-43" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;rounded=0;labelBackgroundColor=none;fontColor=default;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="cXuE-3c_JRa62TgNxXUB-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="449" y="710" />
-              <mxPoint x="620" y="710" />
+              <mxPoint x="449" y="709" />
+              <mxPoint x="620" y="709" />
             </Array>
-            <mxPoint x="620" y="771" as="targetPoint" />
+            <mxPoint x="620" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cXuE-3c_JRa62TgNxXUB-44" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=none;fontColor=default;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" edge="1" parent="1" source="cXuE-3c_JRa62TgNxXUB-28" target="cXuE-3c_JRa62TgNxXUB-29">
