@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YCG6qy2EottCXB00TJv6-74" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="226" width="240" height="174" as="geometry" />
+          <mxGeometry x="590" y="250" width="210" height="150" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-73" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="172" width="420" height="228" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-55" value="融合决策模块" style="rounded=1;arcSize=20;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1078" y="265" width="126" height="48" as="geometry" />
+          <mxGeometry x="952" y="265" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-56" value="机械臂运动控制" style="rounded=1;arcSize=20;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="625.5" y="265" width="143" height="48" as="geometry" />
