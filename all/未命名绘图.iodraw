@@ -5,19 +5,19 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YCG6qy2EottCXB00TJv6-49" value="红外视觉 IR" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="776" y="95" width="113" height="48" as="geometry" />
+          <mxGeometry x="775" y="95" width="113" height="48" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-50" value="可见光视觉 VIS" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="939" y="95" width="137" height="48" as="geometry" />
+          <mxGeometry x="938" y="95" width="137" height="48" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-51" value="深度/肤色传感器" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1245" y="95" width="150" height="48" as="geometry" />
+          <mxGeometry x="1060.5" y="90" width="150" height="48" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-52" value="血管特征提取" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="855" y="243" width="127" height="48" as="geometry" />
+          <mxGeometry x="854" y="243" width="127" height="48" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-53" value="路径规划与安全点筛选" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1224" y="243" width="191" height="48" as="geometry" />
+          <mxGeometry x="1039.5" y="238" width="191" height="48" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-54" value="力控参数预测" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1072" y="490" width="126" height="48" as="geometry" />
