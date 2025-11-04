@@ -4,19 +4,19 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="YCG6qy2EottCXB00TJv6-49" value="红外视觉 IR" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="YCG6qy2EottCXB00TJv6-49" value="红外视觉 IR" style="rounded=1;arcSize=20;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="760" y="91" width="113" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="YCG6qy2EottCXB00TJv6-50" value="可见光视觉 VIS" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="YCG6qy2EottCXB00TJv6-50" value="可见光视觉 VIS" style="rounded=1;arcSize=20;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="905" y="91" width="137" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="YCG6qy2EottCXB00TJv6-51" value="深度/肤色传感器" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="YCG6qy2EottCXB00TJv6-51" value="深度/肤色传感器" style="rounded=1;arcSize=20;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1066.5" y="90" width="150" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="YCG6qy2EottCXB00TJv6-52" value="血管特征提取" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="YCG6qy2EottCXB00TJv6-52" value="血管特征提取" style="rounded=1;arcSize=20;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="821" y="192" width="127" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="YCG6qy2EottCXB00TJv6-53" value="路径规划与安全点筛选" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="YCG6qy2EottCXB00TJv6-53" value="路径规划与安全点筛选" style="rounded=1;arcSize=20;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1063.25" y="192" width="156.5" height="48" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="YCG6qy2EottCXB00TJv6-54" target="YCG6qy2EottCXB00TJv6-55">
