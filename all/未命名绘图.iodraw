@@ -20,10 +20,10 @@
           <mxGeometry x="132.25" y="240" width="236.5" height="28" as="geometry" />
         </mxCell>
         <mxCell id="cXuE-3c_JRa62TgNxXUB-59" value="力控与针头轨迹优化（Hybrid Control）" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="124.5" y="290" width="258" height="30" as="geometry" />
+          <mxGeometry x="121.5" y="290" width="258" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cXuE-3c_JRa62TgNxXUB-60" value="机械臂运动控制（PID / Admittance）" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="141" y="340" width="225" height="30" as="geometry" />
+          <mxGeometry x="138" y="340" width="225" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cXuE-3c_JRa62TgNxXUB-61" value="实时反馈与误差修正（Force / Depth）" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="210" y="390" width="260" height="30" as="geometry" />
@@ -46,7 +46,7 @@
         <mxCell id="cXuE-3c_JRa62TgNxXUB-67" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="cXuE-3c_JRa62TgNxXUB-59" target="cXuE-3c_JRa62TgNxXUB-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cXuE-3c_JRa62TgNxXUB-68" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.32;entryY=0;rounded=0;" parent="1" source="cXuE-3c_JRa62TgNxXUB-60" target="cXuE-3c_JRa62TgNxXUB-61" edge="1">
+        <mxCell id="cXuE-3c_JRa62TgNxXUB-68" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;" parent="1" source="cXuE-3c_JRa62TgNxXUB-60" target="cXuE-3c_JRa62TgNxXUB-61" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="250" y="803" />
