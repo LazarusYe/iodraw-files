@@ -13,13 +13,13 @@
         <mxCell id="YCG6qy2EottCXB00TJv6-27" value="实时监控与安全约束" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1329" y="180" width="205" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="YCG6qy2EottCXB00TJv6-28" value="主从臂通信（Master–Slave）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="YCG6qy2EottCXB00TJv6-28" value="主从臂通信（Master–Slave）" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="701" y="260" width="247" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="YCG6qy2EottCXB00TJv6-29" value="动作同步与力觉协调（Impedance）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="YCG6qy2EottCXB00TJv6-29" value="动作同步与力觉协调（Impedance）" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="997" y="260" width="255" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="YCG6qy2EottCXB00TJv6-30" value="任务分配与冲突解决（Arbitration）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="YCG6qy2EottCXB00TJv6-30" value="任务分配与冲突解决（Arbitration）" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1303.5" y="260" width="256" height="39" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-31" value="左臂执行模块（采血操作）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
