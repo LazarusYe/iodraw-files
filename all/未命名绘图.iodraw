@@ -20,10 +20,10 @@
           <mxGeometry x="133.5" y="240" width="236.5" height="28" as="geometry" />
         </mxCell>
         <mxCell id="cXuE-3c_JRa62TgNxXUB-59" value="力控与针头轨迹优化（Hybrid Control）" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="124.5" y="290" width="258" height="66" as="geometry" />
+          <mxGeometry x="124.5" y="290" width="258" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cXuE-3c_JRa62TgNxXUB-60" value="机械臂运动控制（PID / Admittance）" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="141" y="370" width="225" height="66" as="geometry" />
+          <mxGeometry x="141" y="370" width="225" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cXuE-3c_JRa62TgNxXUB-61" value="实时反馈与误差修正（Force / Depth）" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="260" y="510" width="260" height="66" as="geometry" />
