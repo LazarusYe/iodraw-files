@@ -23,10 +23,10 @@
           <mxGeometry x="1303.5" y="260" width="256" height="39" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-31" value="左臂执行模块（采血操作）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="846.5" y="436" width="253" height="35" as="geometry" />
+          <mxGeometry x="846.5" y="426" width="253" height="35" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-32" value="右臂辅助模块（支撑与稳定）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1149.5" y="436" width="253" height="34" as="geometry" />
+          <mxGeometry x="1149.5" y="426" width="253" height="34" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-33" value="数据监控模块（姿态/力/视觉闭环）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="998.5" y="510" width="254" height="31" as="geometry" />
@@ -81,7 +81,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-42" value="反馈闭环" style="dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;exitX=1.003;exitY=0.393;exitDx=0;exitDy=0;entryDx=0;entryDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="YCG6qy2EottCXB00TJv6-33" target="YCG6qy2EottCXB00TJv6-29">
-          <mxGeometry x="-0.0004" relative="1" as="geometry">
+          <mxGeometry x="-0.1377" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1570" y="522" />
               <mxPoint x="1570" y="240" />
