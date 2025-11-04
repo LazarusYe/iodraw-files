@@ -43,19 +43,13 @@
         <mxCell id="cXuE-3c_JRa62TgNxXUB-13" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.09;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="cXuE-3c_JRa62TgNxXUB-4" target="cXuE-3c_JRa62TgNxXUB-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cXuE-3c_JRa62TgNxXUB-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="cXuE-3c_JRa62TgNxXUB-5" target="cXuE-3c_JRa62TgNxXUB-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="cXuE-3c_JRa62TgNxXUB-14" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="cXuE-3c_JRa62TgNxXUB-5" target="cXuE-3c_JRa62TgNxXUB-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cXuE-3c_JRa62TgNxXUB-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.06;rounded=0;" edge="1" parent="1" source="cXuE-3c_JRa62TgNxXUB-6" target="cXuE-3c_JRa62TgNxXUB-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="704" y="204" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="cXuE-3c_JRa62TgNxXUB-15" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.06;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="cXuE-3c_JRa62TgNxXUB-6" target="cXuE-3c_JRa62TgNxXUB-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cXuE-3c_JRa62TgNxXUB-16" value="" style="startArrow=none;endArrow=block;exitX=0.81;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="cXuE-3c_JRa62TgNxXUB-7" target="cXuE-3c_JRa62TgNxXUB-8">
+        <mxCell id="cXuE-3c_JRa62TgNxXUB-16" value="" style="startArrow=none;endArrow=block;entryX=0.5;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="cXuE-3c_JRa62TgNxXUB-2" target="cXuE-3c_JRa62TgNxXUB-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cXuE-3c_JRa62TgNxXUB-17" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.87;entryX=0;entryY=0.17;rounded=0;edgeStyle=orthogonalEdgeStyle;elbow=vertical;" edge="1" parent="1" source="cXuE-3c_JRa62TgNxXUB-7" target="cXuE-3c_JRa62TgNxXUB-9">
@@ -64,24 +58,14 @@
         <mxCell id="cXuE-3c_JRa62TgNxXUB-18" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.87;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="cXuE-3c_JRa62TgNxXUB-8" target="cXuE-3c_JRa62TgNxXUB-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cXuE-3c_JRa62TgNxXUB-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="cXuE-3c_JRa62TgNxXUB-9" target="cXuE-3c_JRa62TgNxXUB-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="cXuE-3c_JRa62TgNxXUB-19" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="cXuE-3c_JRa62TgNxXUB-9" target="cXuE-3c_JRa62TgNxXUB-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cXuE-3c_JRa62TgNxXUB-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.09;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="cXuE-3c_JRa62TgNxXUB-10" target="cXuE-3c_JRa62TgNxXUB-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="266" y="668" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="cXuE-3c_JRa62TgNxXUB-20" value="" style="startArrow=none;endArrow=block;exitX=0.09;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="cXuE-3c_JRa62TgNxXUB-10" target="cXuE-3c_JRa62TgNxXUB-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cXuE-3c_JRa62TgNxXUB-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.77;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="cXuE-3c_JRa62TgNxXUB-10" target="cXuE-3c_JRa62TgNxXUB-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="573" y="668" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="cXuE-3c_JRa62TgNxXUB-21" value="" style="startArrow=none;endArrow=block;exitX=0.77;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="cXuE-3c_JRa62TgNxXUB-10" target="cXuE-3c_JRa62TgNxXUB-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
