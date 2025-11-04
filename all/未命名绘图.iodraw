@@ -14,10 +14,10 @@
           <mxGeometry x="590" y="80" width="640" height="85" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-49" value="红外视觉 IR" style="rounded=1;arcSize=20;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="625.5" y="91" width="133" height="48" as="geometry" />
+          <mxGeometry x="628.5" y="91" width="133" height="48" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-50" value="可见光视觉 VIS" style="rounded=1;arcSize=20;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="905" y="91" width="137" height="48" as="geometry" />
+          <mxGeometry x="816" y="90" width="137" height="48" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-51" value="深度/肤色传感器" style="rounded=1;arcSize=20;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1066.5" y="90" width="150" height="48" as="geometry" />
