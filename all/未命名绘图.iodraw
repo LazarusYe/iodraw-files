@@ -35,7 +35,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="YCG6qy2EottCXB00TJv6-83" target="YCG6qy2EottCXB00TJv6-78">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1696" y="640" />
+              <mxPoint x="1050" y="640" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-83" value="实时监测与反馈" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1610" y="507" width="172" height="48" as="geometry" />
