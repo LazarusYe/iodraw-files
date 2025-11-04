@@ -8,7 +8,7 @@
           <mxGeometry x="55" y="54" width="252" height="48" as="geometry" />
         </mxCell>
         <mxCell id="cXuE-3c_JRa62TgNxXUB-55" value="环境/障碍检测（Ultrasonic / Vision）" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="357" y="45" width="253" height="66" as="geometry" />
+          <mxGeometry x="357" y="50" width="253" height="61" as="geometry" />
         </mxCell>
         <mxCell id="cXuE-3c_JRa62TgNxXUB-56" value="血管中心线拟合" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="246" y="211" width="173" height="48" as="geometry" />
