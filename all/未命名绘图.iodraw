@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="Xd5wWFqbfpD8aCrecjv-">
-    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2327" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,28 +8,28 @@
           <mxGeometry x="20" y="20" width="626" height="445" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-23" value="协同层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="666" y="208" width="929" height="116" as="geometry" />
+          <mxGeometry x="-110" y="708" width="929" height="116" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-24" value="输入层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="670" y="20" width="898" height="116" as="geometry" />
+          <mxGeometry x="-106" y="520" width="898" height="116" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-25" value="医疗操作指令 / 任务规划" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="705" y="54" width="238" height="48" as="geometry" />
+          <mxGeometry x="-71" y="554" width="238" height="48" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-26" value="AI识别与路径结果输入" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1016" y="54" width="219" height="48" as="geometry" />
+          <mxGeometry x="240" y="554" width="219" height="48" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-27" value="实时监控与安全约束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1329" y="54" width="205" height="48" as="geometry" />
+          <mxGeometry x="553" y="554" width="205" height="48" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-28" value="主从臂通信（Master–Slave）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="701" y="233" width="247" height="66" as="geometry" />
+          <mxGeometry x="-75" y="733" width="247" height="66" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-29" value="动作同步与力觉协调（Impedance）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="997" y="233" width="255" height="66" as="geometry" />
+          <mxGeometry x="221" y="733" width="255" height="66" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-30" value="任务分配与冲突解决（Arbitration）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1303" y="233" width="256" height="66" as="geometry" />
+          <mxGeometry x="527" y="733" width="256" height="66" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-31" value="左臂执行模块（采血操作）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="55" y="383" width="253" height="48" as="geometry" />
