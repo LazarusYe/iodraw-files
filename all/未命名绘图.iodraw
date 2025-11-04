@@ -17,10 +17,10 @@
           <mxGeometry x="135" y="190" width="234" height="66" as="geometry" />
         </mxCell>
         <mxCell id="cXuE-3c_JRa62TgNxXUB-58" value="AI路径规划（A* / RRT）" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="135" y="425" width="231" height="48" as="geometry" />
+          <mxGeometry x="135" y="280" width="231" height="48" as="geometry" />
         </mxCell>
         <mxCell id="cXuE-3c_JRa62TgNxXUB-59" value="力控与针头轨迹优化（Hybrid Control）" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="121" y="546" width="258" height="66" as="geometry" />
+          <mxGeometry x="123" y="350" width="258" height="66" as="geometry" />
         </mxCell>
         <mxCell id="cXuE-3c_JRa62TgNxXUB-60" value="机械臂运动控制（PID / Admittance）" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="138" y="712" width="225" height="66" as="geometry" />
