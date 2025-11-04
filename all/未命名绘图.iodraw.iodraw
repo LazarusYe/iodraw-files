@@ -56,7 +56,11 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cXuE-3c_JRa62TgNxXUB-18" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.87;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="cXuE-3c_JRa62TgNxXUB-8" target="cXuE-3c_JRa62TgNxXUB-9">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="588" y="461" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="cXuE-3c_JRa62TgNxXUB-19" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="cXuE-3c_JRa62TgNxXUB-9" target="cXuE-3c_JRa62TgNxXUB-10">
           <mxGeometry relative="1" as="geometry" />
