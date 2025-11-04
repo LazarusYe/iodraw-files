@@ -4,69 +4,69 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="cXuE-3c_JRa62TgNxXUB-23" value="输出层" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+        <mxCell id="cXuE-3c_JRa62TgNxXUB-23" value="输出层" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="103" y="738" width="633" height="116" as="geometry" />
         </mxCell>
-        <mxCell id="cXuE-3c_JRa62TgNxXUB-24" value="处理层" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+        <mxCell id="cXuE-3c_JRa62TgNxXUB-24" value="处理层" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="98" y="224" width="651" height="464" as="geometry" />
         </mxCell>
-        <mxCell id="cXuE-3c_JRa62TgNxXUB-25" value="输入层" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+        <mxCell id="cXuE-3c_JRa62TgNxXUB-25" value="输入层" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="40" width="820" height="134" as="geometry" />
         </mxCell>
-        <mxCell id="cXuE-3c_JRa62TgNxXUB-26" value="红外图像采集（IR 相机）" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+        <mxCell id="cXuE-3c_JRa62TgNxXUB-26" value="红外图像采集（IR 相机）" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="55" y="83" width="239" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="cXuE-3c_JRa62TgNxXUB-27" value="可见光图像采集（VIS 相机）" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+        <mxCell id="cXuE-3c_JRa62TgNxXUB-27" value="可见光图像采集（VIS 相机）" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="344" y="74" width="210" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="cXuE-3c_JRa62TgNxXUB-28" value="光照/肤色/深度 辅助信息（Optional Sensor）" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+        <mxCell id="cXuE-3c_JRa62TgNxXUB-28" value="光照/肤色/深度 辅助信息（Optional Sensor）" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="603" y="65" width="201" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="cXuE-3c_JRa62TgNxXUB-29" value="图像预处理（降噪、归一化）" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+        <mxCell id="cXuE-3c_JRa62TgNxXUB-29" value="图像预处理（降噪、归一化）" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="323" y="249" width="252" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="cXuE-3c_JRa62TgNxXUB-30" value="特征提取（血管特征、纹理特征）" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+        <mxCell id="cXuE-3c_JRa62TgNxXUB-30" value="特征提取（血管特征、纹理特征）" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="462" y="365" width="253" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="cXuE-3c_JRa62TgNxXUB-31" value="融合模块（加权融合 / Transformer 融合）" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+        <mxCell id="cXuE-3c_JRa62TgNxXUB-31" value="融合模块（加权融合 / Transformer 融合）" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="481" width="217" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="cXuE-3c_JRa62TgNxXUB-32" value="深度学习识别（CNN / UNet 模型）" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+        <mxCell id="cXuE-3c_JRa62TgNxXUB-32" value="深度学习识别（CNN / UNet 模型）" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="321" y="597" width="256" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="cXuE-3c_JRa62TgNxXUB-33" value="血管定位结果（Mask Map）" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+        <mxCell id="cXuE-3c_JRa62TgNxXUB-33" value="血管定位结果（Mask Map）" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="138" y="771" width="256" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="cXuE-3c_JRa62TgNxXUB-34" value="置信度与关键点输出（Confidence Map）" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+        <mxCell id="cXuE-3c_JRa62TgNxXUB-34" value="置信度与关键点输出（Confidence Map）" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="444" y="763" width="257" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="cXuE-3c_JRa62TgNxXUB-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.09;rounded=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" edge="1" parent="1" source="cXuE-3c_JRa62TgNxXUB-26" target="cXuE-3c_JRa62TgNxXUB-29">
+        <mxCell id="cXuE-3c_JRa62TgNxXUB-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.09;rounded=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="cXuE-3c_JRa62TgNxXUB-26" target="cXuE-3c_JRa62TgNxXUB-29">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="174" y="224" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cXuE-3c_JRa62TgNxXUB-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" edge="1" parent="1" source="cXuE-3c_JRa62TgNxXUB-27" target="cXuE-3c_JRa62TgNxXUB-29">
+        <mxCell id="cXuE-3c_JRa62TgNxXUB-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="cXuE-3c_JRa62TgNxXUB-27" target="cXuE-3c_JRa62TgNxXUB-29">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cXuE-3c_JRa62TgNxXUB-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.06;rounded=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" edge="1" parent="1" source="cXuE-3c_JRa62TgNxXUB-28" target="cXuE-3c_JRa62TgNxXUB-29">
+        <mxCell id="cXuE-3c_JRa62TgNxXUB-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.06;rounded=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="cXuE-3c_JRa62TgNxXUB-28" target="cXuE-3c_JRa62TgNxXUB-29">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="704" y="224" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cXuE-3c_JRa62TgNxXUB-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" edge="1" parent="1" source="cXuE-3c_JRa62TgNxXUB-29" target="cXuE-3c_JRa62TgNxXUB-30">
+        <mxCell id="cXuE-3c_JRa62TgNxXUB-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="cXuE-3c_JRa62TgNxXUB-29" target="cXuE-3c_JRa62TgNxXUB-30">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="588" y="340" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cXuE-3c_JRa62TgNxXUB-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.87;entryX=0;entryY=0.17;rounded=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" edge="1" parent="1" source="cXuE-3c_JRa62TgNxXUB-29" target="cXuE-3c_JRa62TgNxXUB-31">
+        <mxCell id="cXuE-3c_JRa62TgNxXUB-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.87;entryX=0;entryY=0.17;rounded=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="cXuE-3c_JRa62TgNxXUB-29" target="cXuE-3c_JRa62TgNxXUB-31">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="152" y="340" />
@@ -74,26 +74,26 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cXuE-3c_JRa62TgNxXUB-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.87;entryY=-0.01;rounded=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" edge="1" parent="1" source="cXuE-3c_JRa62TgNxXUB-30" target="cXuE-3c_JRa62TgNxXUB-31">
+        <mxCell id="cXuE-3c_JRa62TgNxXUB-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.87;entryY=-0.01;rounded=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="cXuE-3c_JRa62TgNxXUB-30" target="cXuE-3c_JRa62TgNxXUB-31">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="588" y="456" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cXuE-3c_JRa62TgNxXUB-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" edge="1" parent="1" source="cXuE-3c_JRa62TgNxXUB-31" target="cXuE-3c_JRa62TgNxXUB-32">
+        <mxCell id="cXuE-3c_JRa62TgNxXUB-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="cXuE-3c_JRa62TgNxXUB-31" target="cXuE-3c_JRa62TgNxXUB-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cXuE-3c_JRa62TgNxXUB-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.09;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" edge="1" parent="1" source="cXuE-3c_JRa62TgNxXUB-32" target="cXuE-3c_JRa62TgNxXUB-33">
+        <mxCell id="cXuE-3c_JRa62TgNxXUB-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.09;exitY=0.99;entryX=0.5;entryY=0.01;rounded=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="cXuE-3c_JRa62TgNxXUB-32" target="cXuE-3c_JRa62TgNxXUB-33">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="266" y="688" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cXuE-3c_JRa62TgNxXUB-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.77;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" edge="1" parent="1" source="cXuE-3c_JRa62TgNxXUB-32" target="cXuE-3c_JRa62TgNxXUB-34">
+        <mxCell id="cXuE-3c_JRa62TgNxXUB-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.77;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="cXuE-3c_JRa62TgNxXUB-32" target="cXuE-3c_JRa62TgNxXUB-34">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="573" y="688" />
