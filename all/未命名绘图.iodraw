@@ -40,67 +40,32 @@
         <mxCell id="YCG6qy2EottCXB00TJv6-33" value="数据监控模块（姿态/力/视觉闭环）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="206" y="45" width="254" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="YCG6qy2EottCXB00TJv6-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="YCG6qy2EottCXB00TJv6-25" target="YCG6qy2EottCXB00TJv6-28">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="YCG6qy2EottCXB00TJv6-34" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="YCG6qy2EottCXB00TJv6-25" target="YCG6qy2EottCXB00TJv6-28">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YCG6qy2EottCXB00TJv6-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="YCG6qy2EottCXB00TJv6-26" target="YCG6qy2EottCXB00TJv6-29">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="YCG6qy2EottCXB00TJv6-35" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="YCG6qy2EottCXB00TJv6-26" target="YCG6qy2EottCXB00TJv6-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YCG6qy2EottCXB00TJv6-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="YCG6qy2EottCXB00TJv6-27" target="YCG6qy2EottCXB00TJv6-30">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="YCG6qy2EottCXB00TJv6-36" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="YCG6qy2EottCXB00TJv6-27" target="YCG6qy2EottCXB00TJv6-30">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YCG6qy2EottCXB00TJv6-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.37;entryY=0;rounded=0;" edge="1" parent="1" source="YCG6qy2EottCXB00TJv6-28" target="YCG6qy2EottCXB00TJv6-31">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="824" y="324" />
-              <mxPoint x="101" y="349" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="YCG6qy2EottCXB00TJv6-37" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.37;entryY=0;rounded=0;" edge="1" parent="1" source="YCG6qy2EottCXB00TJv6-28" target="YCG6qy2EottCXB00TJv6-31">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YCG6qy2EottCXB00TJv6-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.19;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="YCG6qy2EottCXB00TJv6-29" target="YCG6qy2EottCXB00TJv6-31">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="985" y="324" />
-              <mxPoint x="181" y="349" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="YCG6qy2EottCXB00TJv6-38" value="" style="startArrow=none;endArrow=block;exitX=0.19;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="YCG6qy2EottCXB00TJv6-29" target="YCG6qy2EottCXB00TJv6-31">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YCG6qy2EottCXB00TJv6-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.98;exitY=1.01;entryX=0.2;entryY=0.01;rounded=0;" edge="1" parent="1" source="YCG6qy2EottCXB00TJv6-29" target="YCG6qy2EottCXB00TJv6-32">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1340" y="324" />
-              <mxPoint x="353" y="349" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="YCG6qy2EottCXB00TJv6-39" value="" style="startArrow=none;endArrow=block;exitX=0.98;exitY=1.01;entryX=0.2;entryY=0.01;rounded=0;" edge="1" parent="1" source="YCG6qy2EottCXB00TJv6-29" target="YCG6qy2EottCXB00TJv6-32">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YCG6qy2EottCXB00TJv6-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.9;entryX=0.75;entryY=0;rounded=0;" edge="1" parent="1" source="YCG6qy2EottCXB00TJv6-30" target="YCG6qy2EottCXB00TJv6-31">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1148" y="324" />
-              <mxPoint x="333" y="349" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="YCG6qy2EottCXB00TJv6-40" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.9;entryX=0.75;entryY=0;rounded=0;" edge="1" parent="1" source="YCG6qy2EottCXB00TJv6-30" target="YCG6qy2EottCXB00TJv6-31">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YCG6qy2EottCXB00TJv6-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.66;exitY=1.01;entryX=0.66;entryY=0.01;rounded=0;" edge="1" parent="1" source="YCG6qy2EottCXB00TJv6-30" target="YCG6qy2EottCXB00TJv6-32">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1503" y="324" />
-              <mxPoint x="555" y="349" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="YCG6qy2EottCXB00TJv6-41" value="" style="startArrow=none;endArrow=block;exitX=0.66;exitY=1.01;entryX=0.66;entryY=0.01;rounded=0;" edge="1" parent="1" source="YCG6qy2EottCXB00TJv6-30" target="YCG6qy2EottCXB00TJv6-32">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YCG6qy2EottCXB00TJv6-42" value="反馈闭环" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.36;rounded=0;" edge="1" parent="1" source="YCG6qy2EottCXB00TJv6-33" target="YCG6qy2EottCXB00TJv6-29">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="333" y="208" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="YCG6qy2EottCXB00TJv6-42" value="反馈闭环" style="dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.36;rounded=0;" edge="1" parent="1" source="YCG6qy2EottCXB00TJv6-33" target="YCG6qy2EottCXB00TJv6-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
