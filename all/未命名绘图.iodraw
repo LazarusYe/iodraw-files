@@ -4,6 +4,93 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="YCG6qy2EottCXB00TJv6-99" value="红外图像采集（IR）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="560" y="320" width="202" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="YCG6qy2EottCXB00TJv6-100" value="可见光图像采集（VIS）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="812" y="320" width="226" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="YCG6qy2EottCXB00TJv6-101" value="光照/肤色/深度 辅助信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1087" y="320" width="242" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="YCG6qy2EottCXB00TJv6-102" value="图像预处理（降噪/归一化）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="802" y="418" width="244" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="YCG6qy2EottCXB00TJv6-103" value="特征提取（血管/纹理）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="885" y="534" width="228" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="YCG6qy2EottCXB00TJv6-104" value="融合模块（加权/Transformer）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="799" y="633" width="252" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="YCG6qy2EottCXB00TJv6-105" value="深度学习识别（CNN/UNet）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="802" y="749" width="246" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="YCG6qy2EottCXB00TJv6-106" value="血管定位结果（Mask Map）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="653" y="874" width="256" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="YCG6qy2EottCXB00TJv6-107" value="置信度与关键点（Confidence Map）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="959" y="865" width="260" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="YCG6qy2EottCXB00TJv6-108" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0;entryY=0.1;rounded=0;" edge="1" parent="1" source="YCG6qy2EottCXB00TJv6-99" target="YCG6qy2EottCXB00TJv6-102">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="661" y="393" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YCG6qy2EottCXB00TJv6-109" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="YCG6qy2EottCXB00TJv6-100" target="YCG6qy2EottCXB00TJv6-102">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YCG6qy2EottCXB00TJv6-110" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=1;entryY=0.13;rounded=0;" edge="1" parent="1" source="YCG6qy2EottCXB00TJv6-101" target="YCG6qy2EottCXB00TJv6-102">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1209" y="393" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YCG6qy2EottCXB00TJv6-111" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.68;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="YCG6qy2EottCXB00TJv6-102" target="YCG6qy2EottCXB00TJv6-103">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="999" y="509" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YCG6qy2EottCXB00TJv6-112" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.33;exitY=1.01;entryX=0.33;entryY=0;rounded=0;" edge="1" parent="1" source="YCG6qy2EottCXB00TJv6-102" target="YCG6qy2EottCXB00TJv6-104">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="850" y="509" />
+              <mxPoint x="850" y="608" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YCG6qy2EottCXB00TJv6-113" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.67;entryY=0;rounded=0;" edge="1" parent="1" source="YCG6qy2EottCXB00TJv6-103" target="YCG6qy2EottCXB00TJv6-104">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="999" y="608" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YCG6qy2EottCXB00TJv6-114" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="YCG6qy2EottCXB00TJv6-104" target="YCG6qy2EottCXB00TJv6-105">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YCG6qy2EottCXB00TJv6-115" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.17;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="YCG6qy2EottCXB00TJv6-105" target="YCG6qy2EottCXB00TJv6-106">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="781" y="840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YCG6qy2EottCXB00TJv6-116" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.88;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="YCG6qy2EottCXB00TJv6-105" target="YCG6qy2EottCXB00TJv6-107">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1089" y="840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
