@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="Xd5wWFqbfpD8aCrecjv-">
-    <mxGraphModel dx="1050" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="241" dy="136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,14 +76,6 @@
             </Array>
             <mxPoint x="704" y="131" as="sourcePoint" />
             <mxPoint x="449" y="249" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cXuE-3c_JRa62TgNxXUB-45" style="orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.523;entryY=-0.023;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;rounded=0;curved=0;" edge="1" parent="1" source="cXuE-3c_JRa62TgNxXUB-32" target="cXuE-3c_JRa62TgNxXUB-34">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="449" y="680" />
-              <mxPoint x="627" y="680" />
-            </Array>
           </mxGeometry>
         </mxCell>
       </root>
