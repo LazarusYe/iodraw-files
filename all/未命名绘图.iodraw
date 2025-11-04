@@ -14,16 +14,16 @@
           <mxGeometry x="241" y="120" width="173" height="28" as="geometry" />
         </mxCell>
         <mxCell id="cXuE-3c_JRa62TgNxXUB-57" value="安全点筛选（Avoid Bone &amp; Valve）" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="134.5" y="170" width="234" height="30" as="geometry" />
+          <mxGeometry x="216.5" y="170" width="234" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cXuE-3c_JRa62TgNxXUB-58" value="AI路径规划（A* / RRT）" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="133.25" y="219" width="236.5" height="28" as="geometry" />
+          <mxGeometry x="215.25" y="219" width="236.5" height="28" as="geometry" />
         </mxCell>
         <mxCell id="cXuE-3c_JRa62TgNxXUB-59" value="力控与针头轨迹优化（Hybrid Control）" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="131" y="269" width="240" height="30" as="geometry" />
+          <mxGeometry x="213" y="269" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cXuE-3c_JRa62TgNxXUB-60" value="机械臂运动控制（PID / Admittance）" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="139" y="319" width="225" height="30" as="geometry" />
+          <mxGeometry x="221" y="319" width="225" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cXuE-3c_JRa62TgNxXUB-61" value="实时反馈与误差修正（Force / Depth）" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="204" y="388" width="260" height="30" as="geometry" />
@@ -39,7 +39,7 @@
         </mxCell>
         <mxCell id="cXuE-3c_JRa62TgNxXUB-65" value="" style="startArrow=none;endArrow=block;entryX=0.5;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" parent="1" target="cXuE-3c_JRa62TgNxXUB-58" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="252" y="200" as="sourcePoint" />
+            <mxPoint x="334" y="200" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cXuE-3c_JRa62TgNxXUB-66" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="cXuE-3c_JRa62TgNxXUB-58" target="cXuE-3c_JRa62TgNxXUB-59" edge="1">
