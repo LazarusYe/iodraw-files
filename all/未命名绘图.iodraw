@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="cXuE-3c_JRa62TgNxXUB-55" value="环境/障碍检测（Ultrasonic / Vision）" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="350" y="65" width="226" height="32" as="geometry" />
+          <mxGeometry x="350" y="54" width="226" height="32" as="geometry" />
         </mxCell>
         <mxCell id="cXuE-3c_JRa62TgNxXUB-54" value="血管识别结果" style="whiteSpace=wrap;strokeWidth=2;imageHeight=24;" parent="1" vertex="1">
-          <mxGeometry x="110" y="65" width="197" height="32" as="geometry" />
+          <mxGeometry x="110" y="55" width="197" height="32" as="geometry" />
         </mxCell>
         <mxCell id="cXuE-3c_JRa62TgNxXUB-56" value="血管中心线拟合" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="247" y="120" width="173" height="28" as="geometry" />
@@ -29,7 +29,12 @@
           <mxGeometry x="204" y="388" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cXuE-3c_JRa62TgNxXUB-62" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="cXuE-3c_JRa62TgNxXUB-54" target="cXuE-3c_JRa62TgNxXUB-56" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="209" y="100" />
+              <mxPoint x="334" y="100" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="cXuE-3c_JRa62TgNxXUB-63" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="cXuE-3c_JRa62TgNxXUB-55" target="cXuE-3c_JRa62TgNxXUB-56" edge="1">
           <mxGeometry relative="1" as="geometry">
