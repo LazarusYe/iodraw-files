@@ -14,7 +14,7 @@
           <mxGeometry x="750" y="607" width="180" height="48" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-78" value="多模态融合与特征提取" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="980" y="508" width="221" height="48" as="geometry" />
+          <mxGeometry x="980" y="508" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-79" value="路径规划与安全点选择" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1217" y="465" width="221" height="48" as="geometry" />
