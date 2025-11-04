@@ -17,10 +17,10 @@
           <mxGeometry x="980" y="508" width="221" height="48" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-79" value="路径规划与安全点选择" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1241" y="465" width="221" height="48" as="geometry" />
+          <mxGeometry x="1217" y="465" width="221" height="48" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-80" value="力控参数与误差预测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1500" y="430" width="204" height="48" as="geometry" />
+          <mxGeometry x="1462" y="429" width="204" height="48" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-81" value="双臂协同执行（压脉/定位/穿刺）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1770" y="421" width="253" height="66" as="geometry" />
