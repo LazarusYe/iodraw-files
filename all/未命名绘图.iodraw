@@ -26,7 +26,7 @@
           <mxGeometry x="1480" y="326" width="110" height="66" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-82" value="采血与样本收集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1988" y="392" width="172" height="48" as="geometry" />
+          <mxGeometry x="1620" y="334" width="110" height="48" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YCG6qy2EottCXB00TJv6-83" target="YCG6qy2EottCXB00TJv6-79">
           <mxGeometry relative="1" as="geometry" />
