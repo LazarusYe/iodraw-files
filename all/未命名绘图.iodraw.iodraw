@@ -17,10 +17,10 @@
           <mxGeometry x="55" y="83" width="239" height="48" as="geometry" />
         </mxCell>
         <mxCell id="cXuE-3c_JRa62TgNxXUB-27" value="可见光图像采集（VIS 相机）" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="344" y="84" width="210" height="50" as="geometry" />
+          <mxGeometry x="344" y="83" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cXuE-3c_JRa62TgNxXUB-28" value="光照/肤色/深度 辅助信息（Optional Sensor）" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="603" y="65" width="201" height="84" as="geometry" />
+          <mxGeometry x="603" y="80" width="201" height="69" as="geometry" />
         </mxCell>
         <mxCell id="cXuE-3c_JRa62TgNxXUB-29" value="图像预处理（降噪、归一化）" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="323" y="249" width="252" height="66" as="geometry" />
