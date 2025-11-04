@@ -17,7 +17,7 @@
           <mxGeometry x="701" y="260" width="247" height="39" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-29" value="动作同步与力觉协调（Impedance）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="997" y="260" width="255" height="39" as="geometry" />
+          <mxGeometry x="1303.5" y="260" width="255" height="39" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-30" value="任务分配与冲突解决（Arbitration）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1303.5" y="260" width="256" height="39" as="geometry" />
@@ -83,8 +83,8 @@
         <mxCell id="YCG6qy2EottCXB00TJv6-42" value="反馈闭环" style="dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;entryX=1;entryY=0.5;rounded=0;exitX=1.003;exitY=0.393;exitDx=0;exitDy=0;entryDx=0;entryDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="YCG6qy2EottCXB00TJv6-33" target="YCG6qy2EottCXB00TJv6-29">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1570" y="392" />
-              <mxPoint x="1570" y="279" />
+              <mxPoint x="1570" y="522" />
+              <mxPoint x="1570" y="280" />
             </Array>
             <mxPoint x="1125" y="481" as="sourcePoint" />
           </mxGeometry>
