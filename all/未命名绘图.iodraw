@@ -20,7 +20,7 @@
           <mxGeometry x="132.25" y="219" width="236.5" height="28" as="geometry" />
         </mxCell>
         <mxCell id="cXuE-3c_JRa62TgNxXUB-59" value="力控与针头轨迹优化（Hybrid Control）" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="121.5" y="269" width="258" height="30" as="geometry" />
+          <mxGeometry x="130" y="269" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cXuE-3c_JRa62TgNxXUB-60" value="机械臂运动控制（PID / Admittance）" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="138" y="319" width="225" height="30" as="geometry" />
