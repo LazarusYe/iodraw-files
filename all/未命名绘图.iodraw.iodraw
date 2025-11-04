@@ -38,7 +38,7 @@
           <mxGeometry x="138" y="771" width="256" height="48" as="geometry" />
         </mxCell>
         <mxCell id="cXuE-3c_JRa62TgNxXUB-34" value="置信度与关键点输出（Confidence Map）" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="481" y="752" width="257" height="50" as="geometry" />
+          <mxGeometry x="493" y="771" width="257" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cXuE-3c_JRa62TgNxXUB-35" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.09;rounded=0;labelBackgroundColor=none;fontColor=default;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="cXuE-3c_JRa62TgNxXUB-26" target="cXuE-3c_JRa62TgNxXUB-29">
           <mxGeometry relative="1" as="geometry" />
@@ -69,11 +69,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cXuE-3c_JRa62TgNxXUB-43" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;labelBackgroundColor=none;fontColor=default;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="cXuE-3c_JRa62TgNxXUB-32" target="cXuE-3c_JRa62TgNxXUB-34">
+        <mxCell id="cXuE-3c_JRa62TgNxXUB-43" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=none;fontColor=default;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cXuE-3c_JRa62TgNxXUB-32" target="cXuE-3c_JRa62TgNxXUB-34">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="449" y="710" />
               <mxPoint x="609" y="710" />
+              <mxPoint x="609" y="771" />
             </Array>
           </mxGeometry>
         </mxCell>
