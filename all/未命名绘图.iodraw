@@ -17,7 +17,7 @@
           <mxGeometry x="980" y="508" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-79" value="路径规划与安全点选择" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="430" width="143" height="48" as="geometry" />
+          <mxGeometry x="1160" y="508" width="143" height="48" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-80" value="力控参数与误差预测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1270" y="334" width="150" height="48" as="geometry" />
@@ -60,9 +60,6 @@
               <mxPoint x="950" y="532" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="YCG6qy2EottCXB00TJv6-87" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="YCG6qy2EottCXB00TJv6-78" target="YCG6qy2EottCXB00TJv6-79">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-88" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="YCG6qy2EottCXB00TJv6-79" target="YCG6qy2EottCXB00TJv6-80">
           <mxGeometry relative="1" as="geometry" />
