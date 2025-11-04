@@ -11,7 +11,7 @@
           <mxGeometry x="874" y="218" width="576" height="542" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-48" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="494" y="80" width="578" height="98" as="geometry" />
+          <mxGeometry x="874" y="70" width="578" height="98" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-49" value="红外视觉 IR" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="888" y="95" width="113" height="48" as="geometry" />
