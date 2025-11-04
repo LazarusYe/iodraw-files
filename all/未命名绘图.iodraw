@@ -13,6 +13,9 @@
         <mxCell id="YCG6qy2EottCXB00TJv6-77" value="深度/肤色传感器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="750" y="607" width="180" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="YCG6qy2EottCXB00TJv6-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YCG6qy2EottCXB00TJv6-78" target="YCG6qy2EottCXB00TJv6-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-78" value="多模态融合与特征提取" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="980" y="508" width="140" height="48" as="geometry" />
         </mxCell>
@@ -40,7 +43,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-83" value="实时监测与反馈" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1680" y="430" width="172" height="48" as="geometry" />
+          <mxGeometry x="1400" y="508" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-84" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="YCG6qy2EottCXB00TJv6-75" target="YCG6qy2EottCXB00TJv6-78">
           <mxGeometry relative="1" as="geometry">
