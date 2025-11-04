@@ -4,6 +4,104 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="YCG6qy2EottCXB00TJv6-22" value="执行层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="626" height="445" as="geometry" />
+        </mxCell>
+        <mxCell id="YCG6qy2EottCXB00TJv6-23" value="协同层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="666" y="208" width="929" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="YCG6qy2EottCXB00TJv6-24" value="输入层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="670" y="20" width="898" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="YCG6qy2EottCXB00TJv6-25" value="医疗操作指令 / 任务规划" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="705" y="54" width="238" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="YCG6qy2EottCXB00TJv6-26" value="AI识别与路径结果输入" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1016" y="54" width="219" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="YCG6qy2EottCXB00TJv6-27" value="实时监控与安全约束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1329" y="54" width="205" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="YCG6qy2EottCXB00TJv6-28" value="主从臂通信（Master–Slave）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="701" y="233" width="247" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="YCG6qy2EottCXB00TJv6-29" value="动作同步与力觉协调（Impedance）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="997" y="233" width="255" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="YCG6qy2EottCXB00TJv6-30" value="任务分配与冲突解决（Arbitration）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1303" y="233" width="256" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="YCG6qy2EottCXB00TJv6-31" value="左臂执行模块（采血操作）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="55" y="383" width="253" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="YCG6qy2EottCXB00TJv6-32" value="右臂辅助模块（支撑与稳定）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="358" y="374" width="253" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="YCG6qy2EottCXB00TJv6-33" value="数据监控模块（姿态/力/视觉闭环）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="206" y="45" width="254" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="YCG6qy2EottCXB00TJv6-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="YCG6qy2EottCXB00TJv6-25" target="YCG6qy2EottCXB00TJv6-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YCG6qy2EottCXB00TJv6-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="YCG6qy2EottCXB00TJv6-26" target="YCG6qy2EottCXB00TJv6-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YCG6qy2EottCXB00TJv6-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="YCG6qy2EottCXB00TJv6-27" target="YCG6qy2EottCXB00TJv6-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YCG6qy2EottCXB00TJv6-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.37;entryY=0;rounded=0;" edge="1" parent="1" source="YCG6qy2EottCXB00TJv6-28" target="YCG6qy2EottCXB00TJv6-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="824" y="324" />
+              <mxPoint x="101" y="349" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YCG6qy2EottCXB00TJv6-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.19;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="YCG6qy2EottCXB00TJv6-29" target="YCG6qy2EottCXB00TJv6-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="985" y="324" />
+              <mxPoint x="181" y="349" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YCG6qy2EottCXB00TJv6-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.98;exitY=1.01;entryX=0.2;entryY=0.01;rounded=0;" edge="1" parent="1" source="YCG6qy2EottCXB00TJv6-29" target="YCG6qy2EottCXB00TJv6-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1340" y="324" />
+              <mxPoint x="353" y="349" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YCG6qy2EottCXB00TJv6-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.9;entryX=0.75;entryY=0;rounded=0;" edge="1" parent="1" source="YCG6qy2EottCXB00TJv6-30" target="YCG6qy2EottCXB00TJv6-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1148" y="324" />
+              <mxPoint x="333" y="349" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YCG6qy2EottCXB00TJv6-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.66;exitY=1.01;entryX=0.66;entryY=0.01;rounded=0;" edge="1" parent="1" source="YCG6qy2EottCXB00TJv6-30" target="YCG6qy2EottCXB00TJv6-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1503" y="324" />
+              <mxPoint x="555" y="349" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YCG6qy2EottCXB00TJv6-42" value="反馈闭环" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.36;rounded=0;" edge="1" parent="1" source="YCG6qy2EottCXB00TJv6-33" target="YCG6qy2EottCXB00TJv6-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="333" y="208" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
