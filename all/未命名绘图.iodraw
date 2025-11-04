@@ -13,6 +13,9 @@
         <mxCell id="cXuE-3c_JRa62TgNxXUB-56" value="血管中心线拟合" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="241" y="120" width="173" height="28" as="geometry" />
         </mxCell>
+        <mxCell id="YCG6qy2EottCXB00TJv6-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" edge="1" parent="1" source="cXuE-3c_JRa62TgNxXUB-57" target="cXuE-3c_JRa62TgNxXUB-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cXuE-3c_JRa62TgNxXUB-57" value="安全点筛选（Avoid Bone &amp; Valve）" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="133.5" y="170" width="234" height="30" as="geometry" />
         </mxCell>
