@@ -29,7 +29,7 @@
           <mxGeometry x="1224" y="243" width="191" height="48" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-54" value="力控参数预测" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1272" y="687" width="126" height="48" as="geometry" />
+          <mxGeometry x="1310" y="564" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-55" value="融合决策模块" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1072" y="342" width="126" height="48" as="geometry" />
