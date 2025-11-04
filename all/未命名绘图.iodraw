@@ -29,10 +29,10 @@
           <mxGeometry x="1072" y="342" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-56" value="机械臂运动控制" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="660.5" y="342" width="143" height="48" as="geometry" />
+          <mxGeometry x="661.5" y="342" width="143" height="48" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-57" value="实时力觉与深度反馈" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="645" y="430" width="174" height="48" as="geometry" />
+          <mxGeometry x="646" y="490" width="174" height="48" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-61" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="YCG6qy2EottCXB00TJv6-49" target="YCG6qy2EottCXB00TJv6-52">
           <mxGeometry relative="1" as="geometry" />
