@@ -13,6 +13,9 @@
         <mxCell id="cXuE-3c_JRa62TgNxXUB-28" value="光照/肤色/深度 辅助信息（Optional Sensor）" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="603" y="129" width="201" height="47" as="geometry" />
         </mxCell>
+        <mxCell id="cXuE-3c_JRa62TgNxXUB-48" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;rounded=0;curved=0;" edge="1" parent="1" source="cXuE-3c_JRa62TgNxXUB-29" target="cXuE-3c_JRa62TgNxXUB-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cXuE-3c_JRa62TgNxXUB-29" value="图像预处理（降噪、归一化）" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="323" y="225" width="252" height="66" as="geometry" />
         </mxCell>
@@ -20,7 +23,7 @@
           <mxGeometry x="462" y="324" width="253" height="66" as="geometry" />
         </mxCell>
         <mxCell id="cXuE-3c_JRa62TgNxXUB-31" value="融合模块（加权融合 / Transformer 融合）" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="340" y="413" width="217" height="66" as="geometry" />
+          <mxGeometry x="340" y="412" width="217" height="66" as="geometry" />
         </mxCell>
         <mxCell id="cXuE-3c_JRa62TgNxXUB-46" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;rounded=0;curved=0;" edge="1" parent="1" source="cXuE-3c_JRa62TgNxXUB-32" target="cXuE-3c_JRa62TgNxXUB-33">
           <mxGeometry relative="1" as="geometry" />
