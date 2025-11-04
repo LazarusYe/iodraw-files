@@ -17,7 +17,12 @@
           <mxGeometry x="701" y="260" width="247" height="39" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YCG6qy2EottCXB00TJv6-29" target="YCG6qy2EottCXB00TJv6-32">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1431" y="370" />
+              <mxPoint x="1276" y="370" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-29" value="动作同步与力觉协调（Impedance）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1303.5" y="260" width="255" height="39" as="geometry" />
@@ -52,8 +57,8 @@
         <mxCell id="YCG6qy2EottCXB00TJv6-37" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="YCG6qy2EottCXB00TJv6-28" target="YCG6qy2EottCXB00TJv6-31">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="825" y="350" />
-              <mxPoint x="973" y="350" />
+              <mxPoint x="825" y="370" />
+              <mxPoint x="973" y="370" />
             </Array>
           </mxGeometry>
         </mxCell>
