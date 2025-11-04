@@ -1,16 +1,16 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="Xd5wWFqbfpD8aCrecjv-">
-    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1500" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YCG6qy2EottCXB00TJv6-46" value="执行层：机械臂控制与反馈" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="610" y="440" width="244" height="197" as="geometry" />
         </mxCell>
-        <mxCell id="YCG6qy2EottCXB00TJv6-47" value="决策层：AI识别与路径规划" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="YCG6qy2EottCXB00TJv6-47" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="874" y="218" width="576" height="542" as="geometry" />
         </mxCell>
-        <mxCell id="YCG6qy2EottCXB00TJv6-48" value="感知层：多模态信息采集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="YCG6qy2EottCXB00TJv6-48" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="852" y="70" width="578" height="98" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-49" value="红外视觉 IR" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
@@ -39,15 +39,6 @@
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-57" value="实时力觉与深度反馈" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="645" y="564" width="174" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="YCG6qy2EottCXB00TJv6-58" value="A1,A2,A3" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1464" y="95" width="126" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="YCG6qy2EottCXB00TJv6-59" value="B1,B2,B3,B4" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1640" y="95" width="148" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="YCG6qy2EottCXB00TJv6-60" value="C1,C2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1838" y="95" width="102" height="48" as="geometry" />
         </mxCell>
         <mxCell id="YCG6qy2EottCXB00TJv6-61" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.16;entryY=0.01;rounded=0;" edge="1" parent="1" source="YCG6qy2EottCXB00TJv6-49" target="YCG6qy2EottCXB00TJv6-52">
           <mxGeometry relative="1" as="geometry">
